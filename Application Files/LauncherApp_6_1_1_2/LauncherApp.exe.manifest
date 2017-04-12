@@ -350,7 +350,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QrIvl6lZy+S008rf0N9hIORWZllNkfHd2XV4O6F31Cw=</dsig:DigestValue>
+        <dsig:DigestValue>BysOsh+/h74Xw3q/vJVXqwt5NGDbi2AargK2MIBQ9Iw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -362,7 +362,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Z3JmWn8ErIiqejYhiSydL20/1bR9EC7rXv/l6f52YDA=</dsig:DigestValue>
+        <dsig:DigestValue>Bhh42D2O4asQIJKt7C+8Cz+zo3Ut1roHRfw6sNF2LMM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -374,19 +374,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4lxPXsax8fAcRISH4VPwF6ArsKQ1EZ4jtzDA9N6jbqQ=</dsig:DigestValue>
+        <dsig:DigestValue>yl65r4C93YEUloc9+WyF3mxJxpKV2PewkrcOrR2Eays=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LauncherApp.exe" size="2642432">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LauncherApp.exe" size="2642944">
       <assemblyIdentity name="LauncherApp" version="6.1.1.2" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>kR+MPNYNTXvH3p/+XpI2r/BUzLOa7PQ/FzrJrx6uRls=</dsig:DigestValue>
+        <dsig:DigestValue>Y/370FRiA7Tp1TGx/x/YCRcj1A1r/5Jhb5cTwCsLN5Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -682,6 +682,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>muKaSco8DRnbhfwuEmeilFu/IxHUpyLf5x1pYISaMYQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="System.Net.Http.dll" size="196960">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YFJmirBlqIBnxSnOpyYXGFK2D0pg9sXGnu7DTxT/5Vk=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">

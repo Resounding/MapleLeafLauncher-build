@@ -14,14 +14,14 @@
     <framework targetVersion="4.6" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\LauncherApp_6_1_1_2\LauncherApp.exe.manifest" size="40683">
+    <dependentAssembly dependencyType="install" codebase="Application Files\LauncherApp_6_1_1_2\LauncherApp.exe.manifest" size="41082">
       <assemblyIdentity name="LauncherApp.exe" version="6.1.1.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8dv7B6TRNmOEnmdzpCCdmyeG5kJLFo0S6b2Dh/UxbE8=</dsig:DigestValue>
+        <dsig:DigestValue>0ddPVLWbjnycnaS5n17zMnUsULoOZfVbbrcO5FO19ok=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
